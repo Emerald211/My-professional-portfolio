@@ -33,4 +33,9 @@ function goToGithub() {
     window.open(github, "_blank")
 }
 
+function goToWhatsapp() {
+    const whatsapp = "https://api.whatsapp.com/send?phone=7064158452&text=Im%20a%20Web%20developer%20and%20you%20?"
+    window.open(whatsapp, "_blank")
+}
+
 
